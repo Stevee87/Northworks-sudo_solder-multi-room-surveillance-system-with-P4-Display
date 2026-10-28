@@ -1,5 +1,7 @@
 # NW Radar – ESP32-S3 & Elecrow ESP32-P4
 
+Created by Northworks and sudo_solder a surveillance system for under $100
+
 A radar display system for up to three ESP32-S3 transmitters, each connected to
 an Ai-Thinker RD-03D, and an Elecrow CrowPanel Advance 5-inch display. The
 transmitters send target coordinates over Wi-Fi/UDP. The display shows targets
