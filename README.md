@@ -222,7 +222,8 @@ unknown or stale; `OFFLINE` means target/heartbeat packets are missing. DEMO
 does not generate RSSI readings. Update both the display and all transmitters
 to this firmware version to enable the signal strength display.
 
-![Preview with simulated RSSI readings](docs/rssi-preview.png)
+<img width="800" height="480" alt="rssi-preview" src="https://github.com/user-attachments/assets/1de7c54b-b607-4056-9e65-2a9deaf84c80" />
+
 
 *This preview comes from the UI test; the RSSI readings shown are simulated.*
 
