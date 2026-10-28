@@ -6,6 +6,9 @@ transmitters send target coordinates over Wi-Fi/UDP. The display shows targets
 on a room plan with a consistent physical scale, along with each node's Wi-Fi
 signal strength.
 
+![Uploading tempImages3TBrQ.gif…]()
+
+
 **Package date: October 28, 2026 · Firmware: RSSI update from October 27, 2026**
 
 ## Package contents
